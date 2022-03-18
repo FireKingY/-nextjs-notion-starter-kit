@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Fire's Blog',
+  name: 'Fire\'s Blog',
   domain: 'https://astfire.vercel.app/',
   author: 'Ast Fire',
 
