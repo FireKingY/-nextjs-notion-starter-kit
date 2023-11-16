@@ -90,8 +90,8 @@ export const FooterImpl: React.FC = () => {
         {config.github && (
           <a
             className={styles.github}
-            href={`https://github.com/${config.github}`}
-            title={`GitHub @${config.github}`}
+            href={`https://www.travellings.cn/go.html`}
+            title={`Traveling`}
             target='_blank'
             rel='noopener noreferrer'
           >
